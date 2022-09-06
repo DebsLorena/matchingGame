@@ -1,5 +1,5 @@
  <div align="center">
-  <h1>Bem Vindos!!</h1>
+  <h1>Todos são bem vindos!!</h1>
   <strong>Bora curtir um game!!✌️</strong>
   <h6>Feito com ❤️ by DebsLorena</h6>
 </div>
